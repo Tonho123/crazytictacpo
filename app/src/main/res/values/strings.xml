@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Crazy Tic Tac Po</string>
+    <string name="CRAZY" translatable="false">CRAZY</string>
+    <string name="TIC" translatable="false">TIC</string>
+    <string name="TAC" translatable="false">TAC</string>
+    <string name="PO" translatable="false">PO</string>
+    <string name="button" translatable="false">JOGAR</string>
+    <string-array name="animações">
+        <item>AlphaAnimation</item>
+        <item>RotateAnimation</item>
+        <item>ScaleAnimation</item>
+        <item>TranslateAnimation</item>
+        <item>AnimationSet</item>
+    </string-array>
+
+    <string-array name="interpolators">
+        <item>AccelerateDecelerateInterpolator</item>
+        <item>AccelerateInterpolator</item>
+        <item>AnticipateInterpolator</item>
+        <item>AnticipateOvershootInterpolator</item>
+        <item>BounceInterpolator</item>
+        <item>CycleInterpolator</item>
+        <item>DecelerateInterpolator</item>
+        <item>LinearInterpolator</item>
+        <item>OvershootInterpolator</item>
+    </string-array>
+
+</resources>
